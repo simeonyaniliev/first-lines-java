@@ -12,7 +12,7 @@ https://www.onlinegdb.com/
 ### 3. After that we need to delete all the example code in there - it is because we want to write our own code off course.
 ### 4. After that we write the following code in there:
 ```java
-public class MyFirstJavaClass {
+public class Main {
 	public static void main(String[] args) {
 		System.out.println("My first lines of code!");
 		System.out.println("Hello world!");
