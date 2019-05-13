@@ -1,6 +1,6 @@
 # Write your first lines of Java code right NOW, in less than 5 minutes.
 
-## Lets do it in five simple steps:
+## Lets do it in few simple steps:
 ### 1. First we need go to this website:
 
 https://www.onlinegdb.com/
