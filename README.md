@@ -27,7 +27,7 @@ or to: https://www.w3schools.com/java/
 #### 4.2 Check my other tutorials that will follow up on the topic
 
 ## What did we learned in this tutorial
-### Link to the tutorial in YouTube: https://www.youtube.com/watch?v=lRNwvhACfpA&t=138s
+### Link to the tutorial in YouTube: https://www.youtube.com/watch?v=lRNwvhACfpA&t
 ### 1. How to work with the Java IDE in https://www.onlinegdb.com/;
 #### 1.1. IDE means Integrated Development Environment.
 ### 2. Basic insights on Java classes.
